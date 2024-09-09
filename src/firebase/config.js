@@ -3,7 +3,7 @@ import { getFirestore, collection, getDocs } from "firebase/firestore";
 
 // For Firebase JS SDK v9.0.0 and later
 const firebaseConfig = {
-    apiKey: "AIzaSyCX-FPNbbXCuFppKcYih5TxvADi6ipR8kM",
+    // apiKey: "",  Paste your API Key here
     authDomain: "fir-d80ce.firebaseapp.com",
     projectId: "fir-d80ce",
     storageBucket: "fir-d80ce.appspot.com",
